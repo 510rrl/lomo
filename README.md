@@ -1,20 +1,20 @@
 # lomo
 challenge 6
-# <Ron’s Gone Wrong>
 
-## Mobile Accessibile Website
+
+## Weather Fetch Website
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?  
-To provide a responsive user experience for communities using either mobile or desktop websites.
+To provide a responsive user experience for communities using either mobile or desktop websites to help find relevant weather information.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-I built this project to practice my refractor code skills and to provide an interactive website for any user, regardless of their mobile phone carrier or desktop brand. 
+I built this project to practice my API fetch skills. I successfully created the API however I had issues in deployment.
 - What problem does it solve?
-
+I have a website deployed. Need to fix merging the style and the page.
 
 - What did you learn?
-
+How to use API keys.
 
 
 ## Table of Contents (Optional)
@@ -43,10 +43,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
+normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css
+Also had help from a Bootcamp tutor.
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+5 day weather forecast provided the API.
 
 If you followed tutorials, include links to those here as well.
+normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css
 
 ## License
 
